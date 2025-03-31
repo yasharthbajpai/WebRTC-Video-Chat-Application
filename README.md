@@ -116,11 +116,11 @@ The project uses ES Modules for better code organization and modern JavaScript f
 - Consider implementing a more robust authentication system for production use
 - Keep dependencies up to date to patch security vulnerabilities
 
-## License
 
-ISC License
 
 ## Author
 
-[Your Name]
+
+Yasharth Bajpai
+(Made with the help of StackOverFlow + GPT's)
 
