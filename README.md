@@ -121,6 +121,7 @@ The project uses ES Modules for better code organization and modern JavaScript f
 ## Author
 
 
-Yasharth Bajpai
-(Made with the help of StackOverFlow + GPT's)
+Yasharth Bajpai  
+(Made with the help of [StackOverflow](https://stackoverflow.com) + GPT's)  
+
 
